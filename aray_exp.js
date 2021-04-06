@@ -1,2 +1,12 @@
+//array export
+let z = ["pushpita",
+    "namrata",
+    21,
+    34.7,
+    ["komal", "nannu"],
 
-console.log("hello");
+    {       //property
+        name: "yuvraj singh"
+    }
+];
+module.exports = z;
